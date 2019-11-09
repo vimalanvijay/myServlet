@@ -14,6 +14,6 @@ cache:
 deploy:
   provider: heroku
   api_key:
-    secure: b26288b2-df77-4717-97b7-9dac897be3e3
+    secure: 90840aa0-a9a2-4d55-a784-12f30cb2ffe0
   app: myservletv
   skip_cleanup: true
