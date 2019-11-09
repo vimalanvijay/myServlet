@@ -1,4 +1,5 @@
 language: java
+
 before_install:
   - chmod +x gradlew
 script:
@@ -12,7 +13,7 @@ cache:
     - $HOME/.gradle/wrapper/
 
 deploy:
-  provider: heroku
+  provider: heroku-18
   api_key:
     secure: 90840aa0-a9a2-4d55-a784-12f30cb2ffe0
   app: myservletv

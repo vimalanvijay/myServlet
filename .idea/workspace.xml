@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="851d661a-ae41-450b-bba6-f4b7483f2faa" name="Default Changelist" comment="Version 1.0">
       <change afterPath="$PROJECT_DIR$/../DrawShapes copy/DrawShapes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -214,6 +218,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573247877082</updated>
       <workItem from="1573247882427" duration="9261000" />
+      <workItem from="1573313534811" duration="963000" />
     </task>
     <task id="LOCAL-00001" summary="Version 1.0">
       <created>1573251327832</created>
@@ -310,7 +315,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
