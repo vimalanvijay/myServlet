@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="851d661a-ae41-450b-bba6-f4b7483f2faa" name="Default Changelist" comment="Version 1.0">
-      <change afterPath="$PROJECT_DIR$/../DrawShapes copy/DrawShapes.iml" afterDir="false" />
+    <list default="true" id="851d661a-ae41-450b-bba6-f4b7483f2faa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +83,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
@@ -218,7 +216,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573247877082</updated>
       <workItem from="1573247882427" duration="9261000" />
-      <workItem from="1573313534811" duration="963000" />
+      <workItem from="1573313534811" duration="1321000" />
     </task>
     <task id="LOCAL-00001" summary="Version 1.0">
       <created>1573251327832</created>
@@ -304,7 +302,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573258008872</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Version 1.0">
+      <created>1573314822690</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1573314822690</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Version 1.0">
+      <created>1573314987606</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1573314987606</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
