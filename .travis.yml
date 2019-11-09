@@ -11,10 +11,8 @@ cache:
   directories:
     - $HOME/.gradle/caches/
     - $HOME/.gradle/wrapper/
-
 deploy:
   provider: heroku
-  api_key:
-    secure: 90840aa0-a9a2-4d55-a784-12f30cb2ffe0
+  api_key: 90840aa0-a9a2-4d55-a784-12f30cb2ffe0
   app: myservletv
   skip_cleanup: true
