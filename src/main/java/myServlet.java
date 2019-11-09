@@ -10,7 +10,7 @@ public class myServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         resp.setContentType("text/html");
-        resp.getWriter().write("<font size='+6'>Hello world</font>");
+        resp.getWriter().write("<font size='+6'>Hello Vimalan</font>");
 
 
     }
